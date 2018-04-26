@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">F22TaskGuna</string>
+
+    <string name="lion">Lion</string>
+    <string name="simple_activity_transition">simple_activity_transition</string>
+
+    <string name="mainactivity">POP Movies</string>
+    <string name="detailactivity">Movie Detail</string>
+</resources>
